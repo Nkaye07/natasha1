@@ -1,0 +1,58 @@
+.header {
+    text-align: center;
+    background: #1b183f;
+    color: #bbbbce;
+    height: 140px;
+    width: 980px;
+    margin: 15px;
+    left: 150px;
+    top: 0px;
+    position:absolute;
+    
+  }
+
+  .sidebar {
+    text-align: center;
+    background: #1b183f;
+    color: #bbbbce;
+    height: 450px;
+    width: 270px;
+    top: 165px;
+    left: 150px;
+    margin: 15px;
+    position:absolute;
+    
+  }
+
+  .content {
+    text-align: center;
+    background: #1b183f;
+    color: #bbbbce;
+    height: 450px;
+    width: 690px;
+    margin: 15px;
+    left: 440px;
+    top: 165px;
+    position:absolute;
+  }
+
+  .footer {
+    text-align: center;
+    background: #1b183f;
+    color: #bbbbce;
+    height: 70px;
+    width: 980px;
+    left: 150px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    top: 655px;
+    left: 150px;
+    position:absolute;
+  }
+
+  body{
+    background-image: url('tashie.gif');
+    background-size: cover;
+    background-attachment: fixed;
+}
